@@ -1,0 +1,12 @@
+output
+
+apsim_run/out
+apsim_run/sum
+
+
+apsim_run/__pycache__
+download_weather/__pycache__
+preprocess_weather/__pycache__
+weather_analysis/__pycache__
+
+.idea
